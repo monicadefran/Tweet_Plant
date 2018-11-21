@@ -1,4 +1,4 @@
-#Tweet_Plant
+# Tweet_Plant
 
 ### Iniciamos este repositorío con la idea de implementar una planta que sea que sea capaz de tener un perfíl social.
 
@@ -12,7 +12,7 @@
 #### Sensor de Presión
 #### Cableado (estaño)
 
-[Alt text](docs/IMG_20181120_152530.jpg "Primera Reunión")
+[Alt text](docs/IMG_20181120_152530.jpg?raw=true "Primera Reunión")
 
 
 <!--![Alt text](relative/path/to/img.jpg?raw=true "Title")-->
