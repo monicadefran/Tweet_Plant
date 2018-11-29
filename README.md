@@ -15,7 +15,7 @@
 ## Tareas
 
 - [x] Crear Repositorio
-- [ ] Reconomiento como proyecto del Makerspace
+- [x] Reconomiento como proyecto del Makerspace
 - [ ] Tweet: Hello World! mediante Python
 - [ ] Uso del GPIO mediante Python
 - [ ] Acceso a la cámara mediente Python
