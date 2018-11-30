@@ -16,6 +16,7 @@
 
 - [x] Crear Repositorio
 - [x] Reconomiento como proyecto del Makerspace
+- [ ] Crear perfíl en Twitter
 - [ ] Tweet: Hello World! mediante Python
 - [ ] Uso del GPIO mediante Python
 - [ ] Acceso a la cámara mediente Python
