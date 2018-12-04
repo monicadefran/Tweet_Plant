@@ -2,6 +2,11 @@
 
 **Iniciamos este repositorío con la idea de implementar una planta que sea que sea capaz de tener un perfíl social.**
 
+## Co-fundadores del proyecto 
+Si ningún tipo de orden jerarquico los cofundadores de este proyecto son:
+@monicadefran
+@ysinotelodigo
+
 ## Materiales 
 - Raspberry PI
 - Cámara
