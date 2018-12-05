@@ -4,8 +4,10 @@
 
 ## Co-fundadores del proyecto 
 Si ningún tipo de orden jerarquico los cofundadores de este proyecto son:
-@monicadefran
-@ysinotelodigo
+
+[@monicadefran](https://github.com/monicadefran)
+
+[@ysinotelodigo](https://github.com/ysinotelodigo)
 
 ## Materiales 
 - Raspberry PI
