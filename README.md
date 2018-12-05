@@ -28,7 +28,7 @@ Si ningún tipo de orden jerarquico los cofundadores de este proyecto son:
 - [x] Crear Repositorio
 - [x] Reconomiento como proyecto del Makerspace
 - [x] Crear perfíl en Twitter
-- [ ] Tweet: Hello World! mediante Python
+- [x] Tweet: Hello World! mediante Python (Ohh no, otra vez no.)
 - [ ] Uso del GPIO mediante Python
 - [ ] Acceso a la cámara mediente Python
 
