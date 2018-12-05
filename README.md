@@ -9,6 +9,8 @@ Si ningún tipo de orden jerarquico los cofundadores de este proyecto son:
 
 [@ysinotelodigo](https://github.com/ysinotelodigo)
 
+[@burstsergio](https://github.com/burstsergio1995)
+
 ## Materiales 
 - Raspberry PI
 - Cámara
