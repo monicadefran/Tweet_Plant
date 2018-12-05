@@ -11,6 +11,8 @@ Si ningún tipo de orden jerarquico los cofundadores de este proyecto son:
 
 [@burstsergio](https://github.com/burstsergio1995)
 
+[@sergiompp](https://github.com/sergiompp)
+
 ## Materiales 
 - Raspberry PI
 - Cámara
