@@ -1,6 +1,6 @@
-# Tweet_Plant
+# Tweet Plant
 
-**Iniciamos este repositorío con la idea de implementar una planta que sea que sea capaz de tener un perfíl social.**
+El objetivo de este proyecto es la implementación de una planta que sea capaz de gestionar un perfil social en Twitter.
 
 ## Co-fundadores del proyecto 
 Si ningún tipo de orden jerarquico los cofundadores de este proyecto son:
@@ -13,8 +13,11 @@ Si ningún tipo de orden jerarquico los cofundadores de este proyecto son:
 
 [@sergiompp](https://github.com/sergiompp)
 
-## Materiales 
-- Raspberry PI
+## Materiales
+
+Los materiales que se utilizarán para el proyecto son los siguientes:
+
+- Raspberry PI 
 - Cámara
 - Sensor de Humedad
 - Sensor Galga
@@ -24,6 +27,8 @@ Si ningún tipo de orden jerarquico los cofundadores de este proyecto son:
 - Cableado (estaño)
 
 ## Tareas
+
+La siguiente lista indica las tareas realizadas y por realizar dentro del proyecto:
 
 - [x] Crear Repositorio
 - [x] Reconomiento como proyecto del Makerspace
