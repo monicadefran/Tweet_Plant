@@ -34,8 +34,9 @@ La siguiente lista indica las tareas realizadas y por realizar dentro del proyec
 - [x] Reconomiento como proyecto del Makerspace
 - [x] Crear perfíl en Twitter
 - [x] Tweet: Hello World! mediante Python ("Ohh no, otra vez no".)
-- [ ] Uso del GPIO mediante Python
-- [ ] Acceso a la cámara mediente Python
+- [x] Uso del GPIO mediante Python
+- [x] Acceso a la cámara mediente Python
+- [ ] Integración de los ejemplos en un proyecto
 
 ![Alt text](docs/IMG_20181120_152530.jpg?raw=true "Primera Reunión")
 
