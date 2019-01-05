@@ -2,6 +2,8 @@
 
 El objetivo de este proyecto es la implementación de una planta que sea capaz de gestionar un perfil social en Twitter.
 
+[@Audrey 3.0](https://twitter.com/Audrey3_0?s=17)
+
 ## Co-fundadores del proyecto 
 Si ningún tipo de orden jerarquico los cofundadores de este proyecto son:
 
