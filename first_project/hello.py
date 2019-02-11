@@ -28,4 +28,6 @@ print(api.me().name)
 # If the application settings are set for "Read and Write" then
 # this line should tweet out the message to your account's
 # timeline. The "Read and Write" setting is on https://dev.twitter.com/apps
-api.update_status(status='Ohh no, otra vez no.')
+#api.update_status(status='Se mostrará amistoso conmigo... ¡Hola, suelo!')
+
+api.update_with_media( '../third_project/image.png','Se mostrará amistoso conmigo... ¡Hola, suelo!')
